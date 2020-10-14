@@ -1,7 +1,7 @@
 ### Hi there 👋 you're viewing Henry's GitHub profile.
 
 - ✨ I am an open-source and Linux advocate.
-- 🏫 Currently pursuing Master's in Robotics, Cognition, Intelligence at
+- 🏫 Currently pursuing a Master's degree in Robotics, Cognition, Intelligence at
   [TUM](https://www.tum.de).
 - 💬 Talk to me about Machine Learning, Linux Ricing, and computer networks.
 <!--

@@ -1,9 +1,8 @@
-### Hi there 👋 you're viewing Henry's GitHub profile.
+### Hi there 👋 welcome to my GitHub profile.
 
-- ✨ I am an open-source and Linux advocate.
-- 🏫 Currently pursuing a Master's degree in Computer Science at
+- 🏫 I'm currently pursuing a Master's degree in Computer Science at
   [TUM](https://www.tum.de).
-- 💬 Talk to me about Machine Learning, NLP, and Cloud Computing
+- 💬 Talk to me about Cloud Computing, DevOps and Security.
 <!--
 **heliumind/heliumind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
